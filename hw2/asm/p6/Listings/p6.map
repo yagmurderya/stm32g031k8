@@ -1,0 +1,16 @@
+Component: ARM Compiler 6.14.1 Tool: armlink [5db06d00]
+
+==============================================================================
+
+Section Cross References
+
+    p6.o(.vectors) refers to p6.o(.text) for Reset_Handler
+
+
+==============================================================================
+
+Removing Unused input sections from the image.
+
+    Removing p6.o(.vectors), (16 bytes).
+
+1 unused section(s) (total 16 bytes) removed from the image.
